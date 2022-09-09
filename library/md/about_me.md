@@ -13,4 +13,4 @@ Managing APIs using the Anypoint API management console by creating proxies for 
 
 Extensively worked on XML technologies like, XSLT, XQuery and Xpath for data transformations in Mulesoft.
 
-Quantum enthusiast.
+Quantum Computing enthusiast.
